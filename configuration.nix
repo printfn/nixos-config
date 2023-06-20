@@ -109,6 +109,7 @@
     rustc cargo
     usbutils # lsusb
     gcc
+    shellcheck
   ];
 
   #environment.variables = {
